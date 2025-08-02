@@ -25,7 +25,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN
 
 DURATION_LIMIT_MIN = 500000
 
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002314716068") 
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002314716068")) 
 
 DISASTER_LOG = -1002314716068
 
