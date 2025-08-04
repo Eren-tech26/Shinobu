@@ -53,7 +53,7 @@ class Userbot(Client):
                 await self.one.join_chat("Aethonixsupport")
                 await self.one.join_chat("igrischatsupport")
                 assistants.append(1)
-                await self.one.send_message("@y67t89", "<b>𝟷'sᴛ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ</b>")
+                await self.one.send_message("@lodalogszz", "<b>𝟷'sᴛ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ</b>")
                 self.one.id = self.one.me.id
                 self.one.name = self.one.me.mention
                 self.one.username = self.one.me.username
