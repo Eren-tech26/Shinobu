@@ -66,7 +66,7 @@ class Userbot(Client):
             try:
                 await self.two.start()
                 await self.two.join_chat("Aethonixsupport")
-                await self.two.join_chat("igrischatsupport 
+                await self.two.join_chat("igrischatsupport") 
                 assistants.append(2)
                 await self.two.send_message("@y67t89", "<b>𝟸ɴᴅ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ</b>")
                 self.two.id = self.two.me.id
