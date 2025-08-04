@@ -50,10 +50,10 @@ class Userbot(Client):
         if config.STRING1:
             try:
                 await self.one.start()
-                await self.one.join_chat("As_cosmos")
-                await self.one.join_chat("HXH_NETWORK")
+                await self.one.join_chat("Aethonixsupport")
+                await self.one.join_chat("igrischatsupport")
                 assistants.append(1)
-                await self.one.send_message("@lodalogszz", "<b>𝟷'sᴛ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ</b>")
+                await self.one.send_message("@y67t89", "<b>𝟷'sᴛ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ</b>")
                 self.one.id = self.one.me.id
                 self.one.name = self.one.me.mention
                 self.one.username = self.one.me.username
@@ -65,10 +65,10 @@ class Userbot(Client):
         if config.STRING2:
             try:
                 await self.two.start()
-                await self.two.join_chat("as_cosmos")
-                await self.two.join_chat("hxh_network")
+                await self.two.join_chat("Aethonixsupport")
+                await self.two.join_chat("igrischatsupport 
                 assistants.append(2)
-                await self.two.send_message("@zenitsu_xsupport", "<b>𝟸ɴᴅ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ</b>")
+                await self.two.send_message("@y67t89", "<b>𝟸ɴᴅ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ</b>")
                 self.two.id = self.two.me.id
                 self.two.name = self.two.me.mention
                 self.two.username = self.two.me.username
@@ -80,8 +80,8 @@ class Userbot(Client):
         if config.STRING3:
             try:
                 await self.three.start()
-                await self.three.join_chat("as_cosmos")
-                await self.three.join_chat("hxh_network")
+                await self.three.join_chat("Aethonixsupport") 
+                await self.three.join_chat("igrischatsupport")
                 assistants.append(3)
                 await self.three.send_message("@zenitsu_xsupport", "<b>𝟹ʀᴅ ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ</b>")
                 self.three.id = self.three.me.id
